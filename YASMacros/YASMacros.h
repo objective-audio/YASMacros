@@ -3,6 +3,8 @@
 //  Copyright (c) 2015 Yuki Yasoshima.
 //
 
+// clang-format off
+
 #ifndef __YASMacros_YASMacros_h
 #define __YASMacros_YASMacros_h
 
